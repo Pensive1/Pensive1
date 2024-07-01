@@ -1,5 +1,5 @@
 ## Welcome 👋
-I am a *(front-end leaning)* user-centred full-stack developer switching from a career in design.
+I am a *(front-end leaning)* user-centred full-stack developer. 
 
 I have an early background in computing and completed [Brainstation's software engineering](https://brainstation.io/online/software-engineering-bootcamp) boot camp.
 
