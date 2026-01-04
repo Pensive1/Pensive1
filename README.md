@@ -1,5 +1,5 @@
 ## Welcome 👋
-I am a frontend user-centred developer. 
+I am a user-centred frontend developer. 
 
 I have an early background in computing, worked as a UI/UX designer for 11 years and completed [Brainstation's software engineering](https://brainstation.io/online/software-engineering-bootcamp) boot camp in 2023.
 
